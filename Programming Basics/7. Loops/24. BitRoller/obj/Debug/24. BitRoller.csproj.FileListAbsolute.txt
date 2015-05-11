@@ -1,0 +1,5 @@
+D:\Visual Studio projects\7. Loops-Homework\24. BitRoller\bin\Debug\_24.BitRoller.exe
+D:\Visual Studio projects\7. Loops-Homework\24. BitRoller\bin\Debug\_24.BitRoller.pdb
+D:\Visual Studio projects\7. Loops-Homework\24. BitRoller\obj\Debug\24. BitRoller.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\7. Loops-Homework\24. BitRoller\obj\Debug\_24.BitRoller.exe
+D:\Visual Studio projects\7. Loops-Homework\24. BitRoller\obj\Debug\_24.BitRoller.pdb

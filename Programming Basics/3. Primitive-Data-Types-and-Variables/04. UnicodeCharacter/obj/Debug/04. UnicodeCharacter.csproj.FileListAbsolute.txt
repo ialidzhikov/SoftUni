@@ -1,0 +1,4 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\04. UnicodeCharacter\bin\Debug\_04.UnicodeCharacter.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\04. UnicodeCharacter\obj\Debug\_04.UnicodeCharacter.pdb

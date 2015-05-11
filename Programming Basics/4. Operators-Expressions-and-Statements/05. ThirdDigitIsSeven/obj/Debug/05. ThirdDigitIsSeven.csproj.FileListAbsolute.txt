@@ -1,0 +1,4 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\05. ThirdDigitIsSeven\bin\Debug\_05.ThirdDigitIsSeven.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\05. ThirdDigitIsSeven\bin\Debug\_05.ThirdDigitIsSeven.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\05. ThirdDigitIsSeven\obj\Debug\_05.ThirdDigitIsSeven.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\05. ThirdDigitIsSeven\obj\Debug\_05.ThirdDigitIsSeven.pdb

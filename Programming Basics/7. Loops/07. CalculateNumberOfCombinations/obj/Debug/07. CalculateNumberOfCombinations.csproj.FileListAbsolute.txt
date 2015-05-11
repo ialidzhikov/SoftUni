@@ -1,0 +1,5 @@
+D:\Visual Studio projects\7. Loops-Homework\07. CalculateNumberOfCombinations\bin\Debug\_07.CalculateNumberOfCombinations.exe
+D:\Visual Studio projects\7. Loops-Homework\07. CalculateNumberOfCombinations\bin\Debug\_07.CalculateNumberOfCombinations.pdb
+D:\Visual Studio projects\7. Loops-Homework\07. CalculateNumberOfCombinations\obj\Debug\_07.CalculateNumberOfCombinations.exe
+D:\Visual Studio projects\7. Loops-Homework\07. CalculateNumberOfCombinations\obj\Debug\_07.CalculateNumberOfCombinations.pdb
+D:\Visual Studio projects\7. Loops-Homework\07. CalculateNumberOfCombinations\obj\Debug\07. CalculateNumberOfCombinations.csprojResolveAssemblyReference.cache

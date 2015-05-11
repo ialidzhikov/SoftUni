@@ -1,0 +1,5 @@
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\16. MagicCarNumbers\bin\Debug\_16.MagicCarNumbers.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\16. MagicCarNumbers\bin\Debug\_16.MagicCarNumbers.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\16. MagicCarNumbers\obj\Debug\16. MagicCarNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\16. MagicCarNumbers\obj\Debug\_16.MagicCarNumbers.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\16. MagicCarNumbers\obj\Debug\_16.MagicCarNumbers.pdb

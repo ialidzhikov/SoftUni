@@ -1,0 +1,5 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\17. Sunglasses\bin\Debug\_17.Sunglasses.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\17. Sunglasses\bin\Debug\_17.Sunglasses.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\17. Sunglasses\obj\Debug\17. Sunglasses.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\17. Sunglasses\obj\Debug\_17.Sunglasses.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\17. Sunglasses\obj\Debug\_17.Sunglasses.pdb

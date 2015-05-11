@@ -1,0 +1,4 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\10. PointInsideCircleAndOutsideOfRectangle\bin\Debug\_10.PointInsideCircleAndOutsideOfRectangle.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\10. PointInsideCircleAndOutsideOfRectangle\bin\Debug\_10.PointInsideCircleAndOutsideOfRectangle.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\10. PointInsideCircleAndOutsideOfRectangle\obj\Debug\_10.PointInsideCircleAndOutsideOfRectangle.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\10. PointInsideCircleAndOutsideOfRectangle\obj\Debug\_10.PointInsideCircleAndOutsideOfRectangle.pdb

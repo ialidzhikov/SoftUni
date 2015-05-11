@@ -1,0 +1,4 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\06. TheBiggestOfFiveNumbers\bin\Debug\_06.TheBiggestOfFiveNumbers.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\06. TheBiggestOfFiveNumbers\bin\Debug\_06.TheBiggestOfFiveNumbers.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\06. TheBiggestOfFiveNumbers\obj\Debug\_06.TheBiggestOfFiveNumbers.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\06. TheBiggestOfFiveNumbers\obj\Debug\_06.TheBiggestOfFiveNumbers.pdb

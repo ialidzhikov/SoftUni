@@ -1,0 +1,5 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\13. Triangle\bin\Debug\_13.Triangle.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\13. Triangle\bin\Debug\_13.Triangle.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\13. Triangle\obj\Debug\13. Triangle.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\13. Triangle\obj\Debug\_13.Triangle.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\13. Triangle\obj\Debug\_13.Triangle.pdb

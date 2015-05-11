@@ -1,0 +1,5 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\18. NineDigitMagicNumbers\bin\Debug\_18.NineDigitMagicNumbers.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\18. NineDigitMagicNumbers\bin\Debug\_18.NineDigitMagicNumbers.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\18. NineDigitMagicNumbers\obj\Debug\18. NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\18. NineDigitMagicNumbers\obj\Debug\_18.NineDigitMagicNumbers.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\18. NineDigitMagicNumbers\obj\Debug\_18.NineDigitMagicNumbers.pdb

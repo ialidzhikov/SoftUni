@@ -1,0 +1,4 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\08. DigitAsWord\bin\Debug\_08.DigitAsWord.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\08. DigitAsWord\bin\Debug\_08.DigitAsWord.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\08. DigitAsWord\obj\Debug\_08.DigitAsWord.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\08. DigitAsWord\obj\Debug\_08.DigitAsWord.pdb

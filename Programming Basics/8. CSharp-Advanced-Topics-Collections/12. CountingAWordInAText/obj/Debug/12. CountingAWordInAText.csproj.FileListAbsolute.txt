@@ -1,0 +1,4 @@
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\12. CountingAWordInAText\bin\Debug\_12.CountingAWordInAText.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\12. CountingAWordInAText\bin\Debug\_12.CountingAWordInAText.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\12. CountingAWordInAText\obj\Debug\_12.CountingAWordInAText.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\12. CountingAWordInAText\obj\Debug\_12.CountingAWordInAText.pdb

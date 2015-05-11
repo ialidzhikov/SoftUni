@@ -1,0 +1,5 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\15. BitsExchange\bin\Debug\_15.BitsExchange.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\15. BitsExchange\bin\Debug\_15.BitsExchange.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\15. BitsExchange\obj\Debug\15. BitsExchange.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\15. BitsExchange\obj\Debug\_15.BitsExchange.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\15. BitsExchange\obj\Debug\_15.BitsExchange.pdb

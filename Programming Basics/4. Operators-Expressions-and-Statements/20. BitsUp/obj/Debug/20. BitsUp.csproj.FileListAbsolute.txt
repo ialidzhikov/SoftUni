@@ -1,0 +1,7 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\20. BitsUp\bin\Debug\_20.BitsUp.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\20. BitsUp\bin\Debug\_20.BitsUp.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\20. BitsUp\obj\Debug\20. BitsUp.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\20. BitsUp\obj\Debug\_20.BitsUp.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\20. BitsUp\obj\Debug\_20.BitsUp.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework-At-Place\20. BitsUp\obj\Debug\_20.BitsUp.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework-At-Place\20. BitsUp\obj\Debug\_20.BitsUp.pdb

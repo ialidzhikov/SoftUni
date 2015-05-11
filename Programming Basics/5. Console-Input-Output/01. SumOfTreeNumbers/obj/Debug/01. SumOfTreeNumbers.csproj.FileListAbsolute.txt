@@ -1,0 +1,5 @@
+D:\Visual Studio projects\5. Console-Input-Output-Homework\01. SumOfTreeNumbers\bin\Debug\_01.SumOfTreeNumbers.exe
+D:\Visual Studio projects\5. Console-Input-Output-Homework\01. SumOfTreeNumbers\bin\Debug\_01.SumOfTreeNumbers.pdb
+D:\Visual Studio projects\5. Console-Input-Output-Homework\01. SumOfTreeNumbers\obj\Debug\01. SumOfTreeNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\5. Console-Input-Output-Homework\01. SumOfTreeNumbers\obj\Debug\_01.SumOfTreeNumbers.exe
+D:\Visual Studio projects\5. Console-Input-Output-Homework\01. SumOfTreeNumbers\obj\Debug\_01.SumOfTreeNumbers.pdb

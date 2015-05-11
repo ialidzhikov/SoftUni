@@ -1,0 +1,5 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\11. BankAccountData\bin\Debug\_11.BankAccountData.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\11. BankAccountData\bin\Debug\_11.BankAccountData.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\11. BankAccountData\obj\Debug\11. BankAccountData.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\11. BankAccountData\obj\Debug\_11.BankAccountData.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\11. BankAccountData\obj\Debug\_11.BankAccountData.pdb

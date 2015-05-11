@@ -1,0 +1,5 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\16. MagicDates\bin\Debug\_16.MagicDates.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\16. MagicDates\bin\Debug\_16.MagicDates.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\16. MagicDates\obj\Debug\16. MagicDates.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\16. MagicDates\obj\Debug\_16.MagicDates.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\16. MagicDates\obj\Debug\_16.MagicDates.pdb

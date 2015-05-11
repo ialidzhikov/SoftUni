@@ -1,0 +1,4 @@
+D:\Visual Studio projects\7. Loops-Homework\03. MinMaxSumAndAverageOfNNumbers\bin\Debug\_03.MinMaxSumAndAverageOfNNumbers.exe
+D:\Visual Studio projects\7. Loops-Homework\03. MinMaxSumAndAverageOfNNumbers\bin\Debug\_03.MinMaxSumAndAverageOfNNumbers.pdb
+D:\Visual Studio projects\7. Loops-Homework\03. MinMaxSumAndAverageOfNNumbers\obj\Debug\_03.MinMaxSumAndAverageOfNNumbers.exe
+D:\Visual Studio projects\7. Loops-Homework\03. MinMaxSumAndAverageOfNNumbers\obj\Debug\_03.MinMaxSumAndAverageOfNNumbers.pdb

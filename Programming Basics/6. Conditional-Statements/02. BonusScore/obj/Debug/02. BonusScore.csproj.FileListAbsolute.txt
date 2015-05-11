@@ -1,0 +1,4 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\02. BonusScore\bin\Debug\_02.BonusScore.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\02. BonusScore\bin\Debug\_02.BonusScore.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\02. BonusScore\obj\Debug\_02.BonusScore.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\02. BonusScore\obj\Debug\_02.BonusScore.pdb

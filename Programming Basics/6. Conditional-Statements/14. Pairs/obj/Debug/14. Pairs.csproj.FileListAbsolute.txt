@@ -1,0 +1,5 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\14. Pairs\bin\Debug\_14.Pairs.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\14. Pairs\bin\Debug\_14.Pairs.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\14. Pairs\obj\Debug\14. Pairs.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\14. Pairs\obj\Debug\_14.Pairs.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\14. Pairs\obj\Debug\_14.Pairs.pdb

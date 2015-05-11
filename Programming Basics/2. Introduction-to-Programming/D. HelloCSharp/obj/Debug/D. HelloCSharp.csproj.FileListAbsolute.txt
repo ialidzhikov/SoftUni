@@ -1,0 +1,6 @@
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\D. HelloCSharp\bin\Debug\D.HelloCSharp.exe.config
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\D. HelloCSharp\bin\Debug\D.HelloCSharp.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\D. HelloCSharp\bin\Debug\D.HelloCSharp.pdb
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\D. HelloCSharp\obj\Debug\D. HelloCSharp.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\D. HelloCSharp\obj\Debug\D.HelloCSharp.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\D. HelloCSharp\obj\Debug\D.HelloCSharp.pdb

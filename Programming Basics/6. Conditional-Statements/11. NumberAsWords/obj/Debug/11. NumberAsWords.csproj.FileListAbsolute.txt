@@ -1,0 +1,5 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\11. NumberAsWords\bin\Debug\_11.NumberAsWords.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\11. NumberAsWords\bin\Debug\_11.NumberAsWords.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\11. NumberAsWords\obj\Debug\11. NumberAsWords.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\11. NumberAsWords\obj\Debug\_11.NumberAsWords.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\11. NumberAsWords\obj\Debug\_11.NumberAsWords.pdb

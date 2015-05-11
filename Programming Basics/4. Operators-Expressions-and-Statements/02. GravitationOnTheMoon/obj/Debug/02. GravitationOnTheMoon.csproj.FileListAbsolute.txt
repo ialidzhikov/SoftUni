@@ -1,0 +1,4 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\02. GravitationOnTheMoon\bin\Debug\_02.GravitationOnTheMoon.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\02. GravitationOnTheMoon\bin\Debug\_02.GravitationOnTheMoon.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\02. GravitationOnTheMoon\obj\Debug\_02.GravitationOnTheMoon.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\02. GravitationOnTheMoon\obj\Debug\_02.GravitationOnTheMoon.pdb

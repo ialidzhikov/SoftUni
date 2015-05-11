@@ -1,0 +1,5 @@
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\15. ProgrammerDNA\bin\Debug\_15.ProgrammerDNA.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\15. ProgrammerDNA\bin\Debug\_15.ProgrammerDNA.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\15. ProgrammerDNA\obj\Debug\15. ProgrammerDNA.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\15. ProgrammerDNA\obj\Debug\_15.ProgrammerDNA.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\15. ProgrammerDNA\obj\Debug\_15.ProgrammerDNA.pdb

@@ -1,0 +1,4 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\04. Rectangles\bin\Debug\_04.Rectangles.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\04. Rectangles\bin\Debug\_04.Rectangles.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\04. Rectangles\obj\Debug\_04.Rectangles.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\04. Rectangles\obj\Debug\_04.Rectangles.pdb

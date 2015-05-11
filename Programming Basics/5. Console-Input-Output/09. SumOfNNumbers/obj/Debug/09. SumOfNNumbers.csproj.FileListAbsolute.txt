@@ -1,0 +1,4 @@
+D:\Visual Studio projects\5. Console-Input-Output-Homework\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.exe
+D:\Visual Studio projects\5. Console-Input-Output-Homework\09. SumOfNNumbers\bin\Debug\_09.SumOfNNumbers.pdb
+D:\Visual Studio projects\5. Console-Input-Output-Homework\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.exe
+D:\Visual Studio projects\5. Console-Input-Output-Homework\09. SumOfNNumbers\obj\Debug\_09.SumOfNNumbers.pdb

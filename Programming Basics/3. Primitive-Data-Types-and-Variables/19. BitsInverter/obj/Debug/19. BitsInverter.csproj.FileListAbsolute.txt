@@ -1,0 +1,5 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\19. BitsInverter\bin\Debug\_19.BitsInverter.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\19. BitsInverter\bin\Debug\_19.BitsInverter.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\19. BitsInverter\obj\Debug\19. BitsInverter.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\19. BitsInverter\obj\Debug\_19.BitsInverter.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\19. BitsInverter\obj\Debug\_19.BitsInverter.pdb

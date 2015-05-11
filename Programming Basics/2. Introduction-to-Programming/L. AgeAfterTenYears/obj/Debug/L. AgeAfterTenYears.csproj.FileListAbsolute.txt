@@ -1,0 +1,5 @@
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\L. AgeAfterTenYears\bin\Debug\L.AgeAfterTenYears.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\L. AgeAfterTenYears\bin\Debug\L.AgeAfterTenYears.pdb
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\L. AgeAfterTenYears\obj\Debug\L.AgeAfterTenYears.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\L. AgeAfterTenYears\obj\Debug\L.AgeAfterTenYears.pdb
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\L. AgeAfterTenYears\obj\Debug\L. AgeAfterTenYears.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+D:\Visual Studio projects\7. Loops-Homework\18. TrailingZeroesInFactorial\bin\Debug\_18.TrailingZeroesInFactorial.exe
+D:\Visual Studio projects\7. Loops-Homework\18. TrailingZeroesInFactorial\bin\Debug\_18.TrailingZeroesInFactorial.pdb
+D:\Visual Studio projects\7. Loops-Homework\18. TrailingZeroesInFactorial\obj\Debug\_18.TrailingZeroesInFactorial.exe
+D:\Visual Studio projects\7. Loops-Homework\18. TrailingZeroesInFactorial\obj\Debug\_18.TrailingZeroesInFactorial.pdb

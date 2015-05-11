@@ -1,0 +1,5 @@
+D:\Visual Studio projects\7. Loops-Homework\20. ExamSchedule\bin\Debug\_20.ExamSchedule.exe
+D:\Visual Studio projects\7. Loops-Homework\20. ExamSchedule\bin\Debug\_20.ExamSchedule.pdb
+D:\Visual Studio projects\7. Loops-Homework\20. ExamSchedule\obj\Debug\20. ExamSchedule.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\7. Loops-Homework\20. ExamSchedule\obj\Debug\_20.ExamSchedule.exe
+D:\Visual Studio projects\7. Loops-Homework\20. ExamSchedule\obj\Debug\_20.ExamSchedule.pdb

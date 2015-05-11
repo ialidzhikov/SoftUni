@@ -1,0 +1,5 @@
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\02. CountOfNames\bin\Debug\_02.CountOfNames.exe.config
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\02. CountOfNames\bin\Debug\_02.CountOfNames.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\02. CountOfNames\bin\Debug\_02.CountOfNames.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\02. CountOfNames\obj\Debug\_02.CountOfNames.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\02. CountOfNames\obj\Debug\_02.CountOfNames.pdb

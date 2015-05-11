@@ -1,0 +1,4 @@
+D:\Visual Studio projects\5. Console-Input-Output-Homework\02. PrintCompanyInformation\bin\Debug\_02.PrintCompanyInformation.exe
+D:\Visual Studio projects\5. Console-Input-Output-Homework\02. PrintCompanyInformation\bin\Debug\_02.PrintCompanyInformation.pdb
+D:\Visual Studio projects\5. Console-Input-Output-Homework\02. PrintCompanyInformation\obj\Debug\_02.PrintCompanyInformation.exe
+D:\Visual Studio projects\5. Console-Input-Output-Homework\02. PrintCompanyInformation\obj\Debug\_02.PrintCompanyInformation.pdb

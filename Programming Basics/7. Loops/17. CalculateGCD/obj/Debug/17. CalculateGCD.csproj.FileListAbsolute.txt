@@ -1,0 +1,5 @@
+D:\Visual Studio projects\7. Loops-Homework\17. CalculateGCD\bin\Debug\_17.CalculateGCD.exe
+D:\Visual Studio projects\7. Loops-Homework\17. CalculateGCD\bin\Debug\_17.CalculateGCD.pdb
+D:\Visual Studio projects\7. Loops-Homework\17. CalculateGCD\obj\Debug\17. CalculateGCD.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\7. Loops-Homework\17. CalculateGCD\obj\Debug\_17.CalculateGCD.exe
+D:\Visual Studio projects\7. Loops-Homework\17. CalculateGCD\obj\Debug\_17.CalculateGCD.pdb

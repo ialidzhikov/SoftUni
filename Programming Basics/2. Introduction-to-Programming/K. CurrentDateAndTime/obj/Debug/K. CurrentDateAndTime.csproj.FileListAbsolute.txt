@@ -1,0 +1,4 @@
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\K. CurrentDateAndTime\bin\Debug\K.CurrentDateAndTime.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\K. CurrentDateAndTime\bin\Debug\K.CurrentDateAndTime.pdb
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\K. CurrentDateAndTime\obj\Debug\K.CurrentDateAndTime.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\K. CurrentDateAndTime\obj\Debug\K.CurrentDateAndTime.pdb

@@ -1,0 +1,4 @@
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\H. SquareRoot\bin\Debug\H.SquareRoot.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\H. SquareRoot\bin\Debug\H.SquareRoot.pdb
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\H. SquareRoot\obj\Debug\H.SquareRoot.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\H. SquareRoot\obj\Debug\H.SquareRoot.pdb

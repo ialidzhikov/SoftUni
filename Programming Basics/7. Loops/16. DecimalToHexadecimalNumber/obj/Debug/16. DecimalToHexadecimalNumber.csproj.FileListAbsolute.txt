@@ -1,0 +1,4 @@
+D:\Visual Studio projects\7. Loops-Homework\16. DecimalToHexadecimalNumber\bin\Debug\_16.DecimalToHexadecimalNumber.exe
+D:\Visual Studio projects\7. Loops-Homework\16. DecimalToHexadecimalNumber\bin\Debug\_16.DecimalToHexadecimalNumber.pdb
+D:\Visual Studio projects\7. Loops-Homework\16. DecimalToHexadecimalNumber\obj\Debug\_16.DecimalToHexadecimalNumber.exe
+D:\Visual Studio projects\7. Loops-Homework\16. DecimalToHexadecimalNumber\obj\Debug\_16.DecimalToHexadecimalNumber.pdb

@@ -1,0 +1,4 @@
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\05. RemoveNames\bin\Debug\_05.RemoveNames.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\05. RemoveNames\bin\Debug\_05.RemoveNames.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\05. RemoveNames\obj\Debug\_05.RemoveNames.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\05. RemoveNames\obj\Debug\_05.RemoveNames.pdb

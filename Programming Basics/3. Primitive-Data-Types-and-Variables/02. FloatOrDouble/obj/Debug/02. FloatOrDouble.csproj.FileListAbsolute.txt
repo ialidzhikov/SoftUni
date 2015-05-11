@@ -1,0 +1,4 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\02. FloatOrDouble\bin\Debug\_02.FloatOrDouble.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\02. FloatOrDouble\obj\Debug\_02.FloatOrDouble.pdb

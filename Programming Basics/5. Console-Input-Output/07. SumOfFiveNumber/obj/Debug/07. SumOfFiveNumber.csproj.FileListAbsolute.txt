@@ -1,0 +1,5 @@
+D:\Visual Studio projects\5. Console-Input-Output-Homework\07. SumOfFiveNumber\bin\Debug\_07.SumOfFiveNumber.exe
+D:\Visual Studio projects\5. Console-Input-Output-Homework\07. SumOfFiveNumber\bin\Debug\_07.SumOfFiveNumber.pdb
+D:\Visual Studio projects\5. Console-Input-Output-Homework\07. SumOfFiveNumber\obj\Debug\07. SumOfFiveNumber.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\5. Console-Input-Output-Homework\07. SumOfFiveNumber\obj\Debug\_07.SumOfFiveNumber.exe
+D:\Visual Studio projects\5. Console-Input-Output-Homework\07. SumOfFiveNumber\obj\Debug\_07.SumOfFiveNumber.pdb

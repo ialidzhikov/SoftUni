@@ -1,0 +1,5 @@
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\11. ExtractURLsFromText\bin\Debug\_11.ExtractURLsFromText.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\11. ExtractURLsFromText\bin\Debug\_11.ExtractURLsFromText.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\11. ExtractURLsFromText\obj\Debug\11. ExtractURLsFromText.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\11. ExtractURLsFromText\obj\Debug\_11.ExtractURLsFromText.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\11. ExtractURLsFromText\obj\Debug\_11.ExtractURLsFromText.pdb

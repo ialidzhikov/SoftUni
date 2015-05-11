@@ -1,0 +1,4 @@
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\M. PrintLongSequence\bin\Debug\M.PrintLongSequence.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\M. PrintLongSequence\bin\Debug\M.PrintLongSequence.pdb
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\M. PrintLongSequence\obj\Debug\M.PrintLongSequence.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\M. PrintLongSequence\obj\Debug\M.PrintLongSequence.pdb

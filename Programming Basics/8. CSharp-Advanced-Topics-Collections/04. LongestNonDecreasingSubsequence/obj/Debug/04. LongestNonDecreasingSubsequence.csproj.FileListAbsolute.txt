@@ -1,0 +1,5 @@
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\04. LongestNonDecreasingSubsequence\bin\Debug\_04.LongestNonDecreasingSubsequence.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\04. LongestNonDecreasingSubsequence\bin\Debug\_04.LongestNonDecreasingSubsequence.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\04. LongestNonDecreasingSubsequence\obj\Debug\_04.LongestNonDecreasingSubsequence.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\04. LongestNonDecreasingSubsequence\obj\Debug\_04.LongestNonDecreasingSubsequence.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\04. LongestNonDecreasingSubsequence\obj\Debug\04. LongestNonDecreasingSubsequence.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Visual Studio projects\5. Console-Input-Output-Homework\13. WorkHours\bin\Debug\_13.WorkHours.exe
+D:\Visual Studio projects\5. Console-Input-Output-Homework\13. WorkHours\bin\Debug\_13.WorkHours.pdb
+D:\Visual Studio projects\5. Console-Input-Output-Homework\13. WorkHours\obj\Debug\13. WorkHours.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\5. Console-Input-Output-Homework\13. WorkHours\obj\Debug\_13.WorkHours.exe
+D:\Visual Studio projects\5. Console-Input-Output-Homework\13. WorkHours\obj\Debug\_13.WorkHours.pdb

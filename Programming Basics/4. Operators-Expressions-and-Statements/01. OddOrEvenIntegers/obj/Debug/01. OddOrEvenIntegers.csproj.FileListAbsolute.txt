@@ -1,0 +1,7 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\01. OddOrEvenIntegers\bin\Debug\_01.OddOrEvenIntegers.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\01. OddOrEvenIntegers\obj\Debug\01. OddOrEvenIntegers.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework-At-Place\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework-At-Place\01. OddOrEvenIntegers\obj\Debug\_01.OddOrEvenIntegers.pdb

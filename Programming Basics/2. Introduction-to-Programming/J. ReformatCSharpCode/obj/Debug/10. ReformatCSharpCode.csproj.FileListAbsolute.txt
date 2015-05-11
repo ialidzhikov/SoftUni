@@ -1,0 +1,2 @@
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\J. ReformatCSharpCode\obj\Debug\J.ReformatCSharpCode.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\J. ReformatCSharpCode\obj\Debug\J.ReformatCSharpCode.pdb

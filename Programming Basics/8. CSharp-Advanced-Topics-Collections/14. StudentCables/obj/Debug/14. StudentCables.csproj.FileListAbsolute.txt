@@ -1,0 +1,5 @@
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\14. StudentCables\bin\Debug\_14.StudentCables.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\14. StudentCables\bin\Debug\_14.StudentCables.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\14. StudentCables\obj\Debug\14. StudentCables.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\14. StudentCables\obj\Debug\_14.StudentCables.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\14. StudentCables\obj\Debug\_14.StudentCables.pdb

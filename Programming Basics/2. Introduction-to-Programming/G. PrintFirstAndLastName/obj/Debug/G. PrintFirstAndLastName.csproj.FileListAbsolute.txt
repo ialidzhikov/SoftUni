@@ -1,0 +1,5 @@
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\G. PrintFirstAndLastName\bin\Debug\G.PrintFirstAndLastName.exe.config
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\G. PrintFirstAndLastName\bin\Debug\G.PrintFirstAndLastName.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\G. PrintFirstAndLastName\bin\Debug\G.PrintFirstAndLastName.pdb
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\G. PrintFirstAndLastName\obj\Debug\G.PrintFirstAndLastName.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\G. PrintFirstAndLastName\obj\Debug\G.PrintFirstAndLastName.pdb

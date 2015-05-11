@@ -1,0 +1,4 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\09. Trapezoids\bin\Debug\_09.Trapezoids.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\09. Trapezoids\bin\Debug\_09.Trapezoids.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\09. Trapezoids\obj\Debug\_09.Trapezoids.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\09. Trapezoids\obj\Debug\_09.Trapezoids.pdb

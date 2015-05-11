@@ -1,0 +1,5 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\14. PrintTheASCIITable\bin\Debug\_14.PrintTheASCIITable.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\14. PrintTheASCIITable\obj\Debug\_14.PrintTheASCIITable.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\14. PrintTheASCIITable\obj\Debug\14. PrintTheASCIITable.csprojResolveAssemblyReference.cache

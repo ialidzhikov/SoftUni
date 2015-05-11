@@ -1,0 +1,4 @@
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\05. PointClass\bin\Debug\_05.PointClass.exe
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\05. PointClass\bin\Debug\_05.PointClass.pdb
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\05. PointClass\obj\Debug\_05.PointClass.exe
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\05. PointClass\obj\Debug\_05.PointClass.pdb

@@ -1,0 +1,4 @@
+D:\Visual Studio projects\7. Loops-Homework\02. NumbersNotDivisibleByThreeAndSeven\bin\Debug\_02.NumbersNotDivisibleByThreeAndSeven.exe
+D:\Visual Studio projects\7. Loops-Homework\02. NumbersNotDivisibleByThreeAndSeven\bin\Debug\_02.NumbersNotDivisibleByThreeAndSeven.pdb
+D:\Visual Studio projects\7. Loops-Homework\02. NumbersNotDivisibleByThreeAndSeven\obj\Debug\_02.NumbersNotDivisibleByThreeAndSeven.exe
+D:\Visual Studio projects\7. Loops-Homework\02. NumbersNotDivisibleByThreeAndSeven\obj\Debug\_02.NumbersNotDivisibleByThreeAndSeven.pdb

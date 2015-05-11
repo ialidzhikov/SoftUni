@@ -1,0 +1,5 @@
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\F. PrintNumbers\bin\Debug\F.PrintNumbers.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\F. PrintNumbers\bin\Debug\F.PrintNumbers.pdb
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\F. PrintNumbers\obj\Debug\F.PrintNumbers.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\F. PrintNumbers\obj\Debug\F.PrintNumbers.pdb
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\F. PrintNumbers\obj\Debug\F. PrintNumbers.csprojResolveAssemblyReference.cache

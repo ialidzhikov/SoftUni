@@ -1,0 +1,4 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\03. DivideByFiveAndSeven\bin\Debug\_03.DivideByFiveAndSeven.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\03. DivideByFiveAndSeven\bin\Debug\_03.DivideByFiveAndSeven.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\03. DivideByFiveAndSeven\obj\Debug\_03.DivideByFiveAndSeven.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\03. DivideByFiveAndSeven\obj\Debug\_03.DivideByFiveAndSeven.pdb

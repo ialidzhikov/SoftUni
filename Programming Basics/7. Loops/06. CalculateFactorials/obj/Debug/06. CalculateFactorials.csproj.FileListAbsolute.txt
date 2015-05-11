@@ -1,0 +1,4 @@
+D:\Visual Studio projects\7. Loops-Homework\06. CalculateFactorials\bin\Debug\_06.CalculateFactorials.exe
+D:\Visual Studio projects\7. Loops-Homework\06. CalculateFactorials\bin\Debug\_06.CalculateFactorials.pdb
+D:\Visual Studio projects\7. Loops-Homework\06. CalculateFactorials\obj\Debug\_06.CalculateFactorials.exe
+D:\Visual Studio projects\7. Loops-Homework\06. CalculateFactorials\obj\Debug\_06.CalculateFactorials.pdb

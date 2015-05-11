@@ -1,0 +1,4 @@
+D:\Visual Studio projects\7. Loops-Homework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.exe
+D:\Visual Studio projects\7. Loops-Homework\09. MatrixOfNumbers\bin\Debug\_09.MatrixOfNumbers.pdb
+D:\Visual Studio projects\7. Loops-Homework\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.exe
+D:\Visual Studio projects\7. Loops-Homework\09. MatrixOfNumbers\obj\Debug\_09.MatrixOfNumbers.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\10. LongestWordInAText\bin\Debug\_10.LongestWordInAText.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\10. LongestWordInAText\bin\Debug\_10.LongestWordInAText.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\10. LongestWordInAText\obj\Debug\10. LongestWordInAText.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\10. LongestWordInAText\obj\Debug\_10.LongestWordInAText.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\10. LongestWordInAText\obj\Debug\_10.LongestWordInAText.pdb

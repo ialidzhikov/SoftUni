@@ -1,0 +1,4 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\06. StringsAndObjects\bin\Debug\_06.StringsAndObjects.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\06. StringsAndObjects\obj\Debug\_06.StringsAndObjects.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\06. StringsAndObjects\obj\Debug\_06.StringsAndObjects.pdb

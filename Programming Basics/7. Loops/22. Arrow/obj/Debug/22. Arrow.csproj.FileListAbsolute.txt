@@ -1,0 +1,4 @@
+D:\Visual Studio projects\7. Loops-Homework\22. Arrow\bin\Debug\_22.Arrow.exe
+D:\Visual Studio projects\7. Loops-Homework\22. Arrow\bin\Debug\_22.Arrow.pdb
+D:\Visual Studio projects\7. Loops-Homework\22. Arrow\obj\Debug\_22.Arrow.exe
+D:\Visual Studio projects\7. Loops-Homework\22. Arrow\obj\Debug\_22.Arrow.pdb

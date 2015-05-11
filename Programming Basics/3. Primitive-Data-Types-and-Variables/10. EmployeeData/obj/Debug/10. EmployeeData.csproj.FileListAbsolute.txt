@@ -1,0 +1,4 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\10. EmployeeData\bin\Debug\_10.EmployeeData.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\10. EmployeeData\bin\Debug\_10.EmployeeData.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\10. EmployeeData\obj\Debug\_10.EmployeeData.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\10. EmployeeData\obj\Debug\_10.EmployeeData.pdb

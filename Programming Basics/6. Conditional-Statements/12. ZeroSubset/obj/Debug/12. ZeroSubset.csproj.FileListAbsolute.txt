@@ -1,0 +1,5 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\12. ZeroSubset\bin\Debug\_12.ZeroSubset.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\12. ZeroSubset\bin\Debug\_12.ZeroSubset.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\12. ZeroSubset\obj\Debug\_12.ZeroSubset.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\12. ZeroSubset\obj\Debug\_12.ZeroSubset.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\12. ZeroSubset\obj\Debug\12. ZeroSubset.csprojResolveAssemblyReference.cache

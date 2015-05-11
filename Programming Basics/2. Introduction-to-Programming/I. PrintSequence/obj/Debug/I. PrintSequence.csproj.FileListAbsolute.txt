@@ -1,0 +1,4 @@
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\I. PrintSequence\bin\Debug\I.PrintSequence.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\I. PrintSequence\bin\Debug\I.PrintSequence.pdb
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\I. PrintSequence\obj\Debug\I.PrintSequence.exe
+D:\Visual Studio projects\1. Introduction-To-Programming-At-Place\I. PrintSequence\obj\Debug\I.PrintSequence.pdb

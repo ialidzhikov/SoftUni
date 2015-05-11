@@ -1,0 +1,4 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\13. ComparingFloats\bin\Debug\_13.ComparingFloats.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\13. ComparingFloats\bin\Debug\_13.ComparingFloats.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\13. ComparingFloats\obj\Debug\_13.ComparingFloats.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\13. ComparingFloats\obj\Debug\_13.ComparingFloats.pdb

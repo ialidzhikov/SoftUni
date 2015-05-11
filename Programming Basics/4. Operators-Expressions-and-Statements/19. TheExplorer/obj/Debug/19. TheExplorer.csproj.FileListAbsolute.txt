@@ -1,0 +1,5 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\19. TheExplorer\bin\Debug\_19.TheExplorer.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\19. TheExplorer\bin\Debug\_19.TheExplorer.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\19. TheExplorer\obj\Debug\_19.TheExplorer.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\19. TheExplorer\obj\Debug\_19.TheExplorer.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\19. TheExplorer\obj\Debug\19. TheExplorer.csprojResolveAssemblyReference.cache

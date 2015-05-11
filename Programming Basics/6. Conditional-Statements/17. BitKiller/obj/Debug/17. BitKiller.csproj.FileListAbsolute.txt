@@ -1,0 +1,5 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\17. BitKiller\bin\Debug\_17.BitKiller.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\17. BitKiller\bin\Debug\_17.BitKiller.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\17. BitKiller\obj\Debug\17. BitKiller.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\17. BitKiller\obj\Debug\_17.BitKiller.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\17. BitKiller\obj\Debug\_17.BitKiller.pdb

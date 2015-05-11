@@ -1,0 +1,5 @@
+D:\Visual Studio projects\7. Loops-Homework\14. DecimalToBinaryNumber\bin\Debug\_14.DecimalToBinaryNumber.exe
+D:\Visual Studio projects\7. Loops-Homework\14. DecimalToBinaryNumber\bin\Debug\_14.DecimalToBinaryNumber.pdb
+D:\Visual Studio projects\7. Loops-Homework\14. DecimalToBinaryNumber\obj\Debug\14. DecimalToBinaryNumber.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\7. Loops-Homework\14. DecimalToBinaryNumber\obj\Debug\_14.DecimalToBinaryNumber.exe
+D:\Visual Studio projects\7. Loops-Homework\14. DecimalToBinaryNumber\obj\Debug\_14.DecimalToBinaryNumber.pdb

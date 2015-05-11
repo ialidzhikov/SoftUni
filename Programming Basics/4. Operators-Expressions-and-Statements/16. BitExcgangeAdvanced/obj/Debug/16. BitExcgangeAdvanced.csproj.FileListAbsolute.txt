@@ -1,0 +1,5 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\16. BitExcgangeAdvanced\bin\Debug\_16.BitExcgangeAdvanced.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\16. BitExcgangeAdvanced\bin\Debug\_16.BitExcgangeAdvanced.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\16. BitExcgangeAdvanced\obj\Debug\16. BitExcgangeAdvanced.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\16. BitExcgangeAdvanced\obj\Debug\_16.BitExcgangeAdvanced.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\16. BitExcgangeAdvanced\obj\Debug\_16.BitExcgangeAdvanced.pdb

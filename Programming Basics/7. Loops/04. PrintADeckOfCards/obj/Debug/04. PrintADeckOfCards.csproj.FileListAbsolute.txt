@@ -1,0 +1,4 @@
+D:\Visual Studio projects\7. Loops-Homework\04. PrintADeckOfCards\bin\Debug\_04.PrintADeckOfCards.exe
+D:\Visual Studio projects\7. Loops-Homework\04. PrintADeckOfCards\bin\Debug\_04.PrintADeckOfCards.pdb
+D:\Visual Studio projects\7. Loops-Homework\04. PrintADeckOfCards\obj\Debug\_04.PrintADeckOfCards.exe
+D:\Visual Studio projects\7. Loops-Homework\04. PrintADeckOfCards\obj\Debug\_04.PrintADeckOfCards.pdb

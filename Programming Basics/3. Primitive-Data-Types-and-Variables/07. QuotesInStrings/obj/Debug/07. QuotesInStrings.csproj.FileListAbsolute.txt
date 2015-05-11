@@ -1,0 +1,4 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\07. QuotesInStrings\bin\Debug\_07.QuotesInStrings.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\07. QuotesInStrings\bin\Debug\_07.QuotesInStrings.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\07. QuotesInStrings\obj\Debug\_07.QuotesInStrings.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\07. QuotesInStrings\obj\Debug\_07.QuotesInStrings.pdb

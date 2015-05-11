@@ -1,0 +1,4 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\16. HalfSum\bin\Debug\_16.HalfSum.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\16. HalfSum\bin\Debug\_16.HalfSum.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\16. HalfSum\obj\Debug\_16.HalfSum.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\16. HalfSum\obj\Debug\_16.HalfSum.pdb

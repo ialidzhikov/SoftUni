@@ -1,0 +1,5 @@
+D:\Visual Studio projects\7. Loops-Homework\21. OddEvenElements\bin\Debug\_21.OddEvenElements.exe
+D:\Visual Studio projects\7. Loops-Homework\21. OddEvenElements\bin\Debug\_21.OddEvenElements.pdb
+D:\Visual Studio projects\7. Loops-Homework\21. OddEvenElements\obj\Debug\21. OddEvenElements.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\7. Loops-Homework\21. OddEvenElements\obj\Debug\_21.OddEvenElements.exe
+D:\Visual Studio projects\7. Loops-Homework\21. OddEvenElements\obj\Debug\_21.OddEvenElements.pdb

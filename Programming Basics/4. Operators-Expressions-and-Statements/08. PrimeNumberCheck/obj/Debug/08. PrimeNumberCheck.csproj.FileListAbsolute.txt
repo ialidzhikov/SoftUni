@@ -1,0 +1,4 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\08. PrimeNumberCheck\bin\Debug\_08.PrimeNumberCheck.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\08. PrimeNumberCheck\obj\Debug\_08.PrimeNumberCheck.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\08. PrimeNumberCheck\obj\Debug\_08.PrimeNumberCheck.pdb

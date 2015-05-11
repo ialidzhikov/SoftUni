@@ -1,0 +1,4 @@
+D:\Visual Studio projects\7. Loops-Homework\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.exe
+D:\Visual Studio projects\7. Loops-Homework\08. CatalanNumbers\bin\Debug\_08.CatalanNumbers.pdb
+D:\Visual Studio projects\7. Loops-Homework\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.exe
+D:\Visual Studio projects\7. Loops-Homework\08. CatalanNumbers\obj\Debug\_08.CatalanNumbers.pdb

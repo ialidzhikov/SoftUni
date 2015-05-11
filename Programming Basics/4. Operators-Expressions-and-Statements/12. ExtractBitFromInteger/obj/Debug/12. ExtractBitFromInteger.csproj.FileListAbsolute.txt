@@ -1,0 +1,4 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\12. ExtractBitFromInteger\bin\Debug\_12.ExtractBitFromInteger.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\12. ExtractBitFromInteger\obj\Debug\_12.ExtractBitFromInteger.pdb

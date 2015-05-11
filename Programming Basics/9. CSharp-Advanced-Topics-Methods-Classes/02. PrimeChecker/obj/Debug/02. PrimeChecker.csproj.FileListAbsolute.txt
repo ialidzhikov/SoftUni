@@ -1,0 +1,5 @@
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\02. PrimeChecker\bin\Debug\_02.PrimeChecker.exe
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\02. PrimeChecker\bin\Debug\_02.PrimeChecker.pdb
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\02. PrimeChecker\obj\Debug\_02.PrimeChecker.exe
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\02. PrimeChecker\obj\Debug\_02.PrimeChecker.pdb
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\02. PrimeChecker\obj\Debug\02. PrimeChecker.csprojResolveAssemblyReference.cache

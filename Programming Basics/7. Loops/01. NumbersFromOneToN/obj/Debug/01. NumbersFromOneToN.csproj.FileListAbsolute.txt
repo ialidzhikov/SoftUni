@@ -1,0 +1,5 @@
+D:\Visual Studio projects\7. Loops-Homework\01. NumbersFromOneToN\bin\Debug\_01.NumbersFromOneToN.exe
+D:\Visual Studio projects\7. Loops-Homework\01. NumbersFromOneToN\bin\Debug\_01.NumbersFromOneToN.pdb
+D:\Visual Studio projects\7. Loops-Homework\01. NumbersFromOneToN\obj\Debug\01. NumbersFromOneToN.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\7. Loops-Homework\01. NumbersFromOneToN\obj\Debug\_01.NumbersFromOneToN.exe
+D:\Visual Studio projects\7. Loops-Homework\01. NumbersFromOneToN\obj\Debug\_01.NumbersFromOneToN.pdb

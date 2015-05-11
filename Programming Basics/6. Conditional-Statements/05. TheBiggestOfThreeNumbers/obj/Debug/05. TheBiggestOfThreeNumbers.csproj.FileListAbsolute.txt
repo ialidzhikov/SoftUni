@@ -1,0 +1,4 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\05. TheBiggestOfThreeNumbers\bin\Debug\_05.TheBiggestOfThreeNumbers.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\05. TheBiggestOfThreeNumbers\bin\Debug\_05.TheBiggestOfThreeNumbers.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\05. TheBiggestOfThreeNumbers\obj\Debug\_05.TheBiggestOfThreeNumbers.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\05. TheBiggestOfThreeNumbers\obj\Debug\_05.TheBiggestOfThreeNumbers.pdb

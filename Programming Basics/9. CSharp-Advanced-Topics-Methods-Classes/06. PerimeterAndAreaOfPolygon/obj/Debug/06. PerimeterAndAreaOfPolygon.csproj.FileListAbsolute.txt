@@ -1,0 +1,5 @@
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\06. PerimeterAndAreaOfPolygon\bin\Debug\_06.PerimeterAndAreaOfPolygon.exe
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\06. PerimeterAndAreaOfPolygon\bin\Debug\_06.PerimeterAndAreaOfPolygon.pdb
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\06. PerimeterAndAreaOfPolygon\obj\Debug\06. PerimeterAndAreaOfPolygon.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\06. PerimeterAndAreaOfPolygon\obj\Debug\_06.PerimeterAndAreaOfPolygon.exe
+D:\Visual Studio projects\9. CSharp-Advanced-Topics-Methods-Classes-Homework\06. PerimeterAndAreaOfPolygon\obj\Debug\_06.PerimeterAndAreaOfPolygon.pdb

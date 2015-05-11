@@ -1,0 +1,5 @@
+D:\Visual Studio projects\7. Loops-Homework\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.exe
+D:\Visual Studio projects\7. Loops-Homework\19. SpiralMatrix\bin\Debug\_19.SpiralMatrix.pdb
+D:\Visual Studio projects\7. Loops-Homework\19. SpiralMatrix\obj\Debug\19. SpiralMatrix.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\7. Loops-Homework\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.exe
+D:\Visual Studio projects\7. Loops-Homework\19. SpiralMatrix\obj\Debug\_19.SpiralMatrix.pdb

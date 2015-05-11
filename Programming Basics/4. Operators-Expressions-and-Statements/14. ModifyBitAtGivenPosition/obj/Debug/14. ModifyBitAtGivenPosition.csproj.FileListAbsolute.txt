@@ -1,0 +1,5 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\14. ModifyBitAtGivenPosition\bin\Debug\_14.ModifyBitAtGivenPosition.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\14. ModifyBitAtGivenPosition\bin\Debug\_14.ModifyBitAtGivenPosition.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\14. ModifyBitAtGivenPosition\obj\Debug\14. ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\14. ModifyBitAtGivenPosition\obj\Debug\_14.ModifyBitAtGivenPosition.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\14. ModifyBitAtGivenPosition\obj\Debug\_14.ModifyBitAtGivenPosition.pdb

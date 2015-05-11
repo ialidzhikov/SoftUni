@@ -1,0 +1,5 @@
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\15. JoroTheFootballPlayer\bin\Debug\_15.JoroTheFootballPlayer.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\15. JoroTheFootballPlayer\bin\Debug\_15.JoroTheFootballPlayer.pdb
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\15. JoroTheFootballPlayer\obj\Debug\15. JoroTheFootballPlayer.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\15. JoroTheFootballPlayer\obj\Debug\_15.JoroTheFootballPlayer.exe
+D:\Visual Studio projects\3. Primitive-Data-Types-and-Variables-At-Place\15. JoroTheFootballPlayer\obj\Debug\_15.JoroTheFootballPlayer.pdb

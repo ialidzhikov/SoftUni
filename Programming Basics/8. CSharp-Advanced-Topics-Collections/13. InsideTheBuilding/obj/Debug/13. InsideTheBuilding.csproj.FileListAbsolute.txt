@@ -1,0 +1,5 @@
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\13. InsideTheBuilding\bin\Debug\_13.InsideTheBuilding.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\13. InsideTheBuilding\bin\Debug\_13.InsideTheBuilding.pdb
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\13. InsideTheBuilding\obj\Debug\13. InsideTheBuilding.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\13. InsideTheBuilding\obj\Debug\_13.InsideTheBuilding.exe
+D:\Visual Studio projects\8. CSharp-Advanced-Topics-Collections-Homework\13. InsideTheBuilding\obj\Debug\_13.InsideTheBuilding.pdb

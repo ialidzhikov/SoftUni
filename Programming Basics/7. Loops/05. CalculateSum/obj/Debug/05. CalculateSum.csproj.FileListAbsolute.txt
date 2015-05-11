@@ -1,0 +1,4 @@
+D:\Visual Studio projects\7. Loops-Homework\05. CalculateSum\bin\Debug\_05.CalculateSum.exe
+D:\Visual Studio projects\7. Loops-Homework\05. CalculateSum\bin\Debug\_05.CalculateSum.pdb
+D:\Visual Studio projects\7. Loops-Homework\05. CalculateSum\obj\Debug\_05.CalculateSum.exe
+D:\Visual Studio projects\7. Loops-Homework\05. CalculateSum\obj\Debug\_05.CalculateSum.pdb

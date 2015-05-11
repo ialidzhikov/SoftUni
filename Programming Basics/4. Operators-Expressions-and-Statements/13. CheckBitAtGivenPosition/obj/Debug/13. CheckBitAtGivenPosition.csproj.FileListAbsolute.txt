@@ -1,0 +1,5 @@
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\13. CheckBitAtGivenPosition\bin\Debug\_13.CheckBitAtGivenPosition.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\13. CheckBitAtGivenPosition\bin\Debug\_13.CheckBitAtGivenPosition.pdb
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\13. CheckBitAtGivenPosition\obj\Debug\13. CheckBitAtGivenPosition.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\13. CheckBitAtGivenPosition\obj\Debug\_13.CheckBitAtGivenPosition.exe
+D:\Visual Studio projects\4. Operators-Expressions-and-Statements-Homework\13. CheckBitAtGivenPosition\obj\Debug\_13.CheckBitAtGivenPosition.pdb

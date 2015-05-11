@@ -1,0 +1,4 @@
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\09. PlayWithIntDoubleAndString\bin\Debug\_09.PlayWithIntDoubleAndString.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\09. PlayWithIntDoubleAndString\bin\Debug\_09.PlayWithIntDoubleAndString.pdb
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\09. PlayWithIntDoubleAndString\obj\Debug\_09.PlayWithIntDoubleAndString.exe
+D:\Visual Studio projects\6. Conditional-Statements-Homework-At-Place\09. PlayWithIntDoubleAndString\obj\Debug\_09.PlayWithIntDoubleAndString.pdb
