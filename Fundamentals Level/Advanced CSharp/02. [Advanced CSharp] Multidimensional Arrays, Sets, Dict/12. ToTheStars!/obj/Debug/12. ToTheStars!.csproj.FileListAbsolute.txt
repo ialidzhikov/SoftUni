@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\12. ToTheStars!\obj\Debug\12. ToTheStars!.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\12. ToTheStars!\bin\Debug\_12.ToTheStars_.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\12. ToTheStars!\bin\Debug\_12.ToTheStars_.pdb
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\12. ToTheStars!\obj\Debug\_12.ToTheStars_.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\12. ToTheStars!\obj\Debug\_12.ToTheStars_.pdb

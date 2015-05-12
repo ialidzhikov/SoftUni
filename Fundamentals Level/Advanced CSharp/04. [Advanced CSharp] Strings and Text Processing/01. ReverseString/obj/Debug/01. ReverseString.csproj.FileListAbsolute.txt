@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\01. ReverseString\bin\Debug\_01.ReverseString.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\01. ReverseString\bin\Debug\_01.ReverseString.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\01. ReverseString\obj\Debug\01. ReverseString.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\01. ReverseString\obj\Debug\_01.ReverseString.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\01. ReverseString\obj\Debug\_01.ReverseString.pdb

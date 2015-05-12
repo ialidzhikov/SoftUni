@@ -1,0 +1,4 @@
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\03. CategorizeNumbers\bin\Debug\_03.CategorizeNumbers.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\03. CategorizeNumbers\bin\Debug\_03.CategorizeNumbers.pdb
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\03. CategorizeNumbers\obj\Debug\_03.CategorizeNumbers.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\03. CategorizeNumbers\obj\Debug\_03.CategorizeNumbers.pdb

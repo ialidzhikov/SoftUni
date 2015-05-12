@@ -1,0 +1,5 @@
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\07. LegoBlocks\obj\Debug\07. LegoBlocks.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\07. LegoBlocks\bin\Debug\_07.LegoBlocks.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\07. LegoBlocks\bin\Debug\_07.LegoBlocks.pdb
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\07. LegoBlocks\obj\Debug\_07.LegoBlocks.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\07. LegoBlocks\obj\Debug\_07.LegoBlocks.pdb

@@ -1,0 +1,4 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\02. StringLength\bin\Debug\_02.StringLength.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\02. StringLength\bin\Debug\_02.StringLength.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\02. StringLength\obj\Debug\_02.StringLength.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\02. StringLength\obj\Debug\_02.StringLength.pdb

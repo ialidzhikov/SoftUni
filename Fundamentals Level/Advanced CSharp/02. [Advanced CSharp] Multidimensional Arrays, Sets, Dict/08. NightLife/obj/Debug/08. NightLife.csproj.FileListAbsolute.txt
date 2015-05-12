@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\08. NightLife\bin\Debug\_08.NightLife.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\08. NightLife\bin\Debug\_08.NightLife.pdb
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\08. NightLife\obj\Debug\08. NightLife.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\08. NightLife\obj\Debug\_08.NightLife.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\08. NightLife\obj\Debug\_08.NightLife.pdb

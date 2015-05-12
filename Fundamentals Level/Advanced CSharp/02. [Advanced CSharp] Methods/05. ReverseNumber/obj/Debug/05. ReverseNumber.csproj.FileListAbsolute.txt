@@ -1,0 +1,5 @@
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\05. ReverseNumber\obj\Debug\05. ReverseNumber.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\05. ReverseNumber\bin\Debug\_05.ReverseNumber.exe
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\05. ReverseNumber\bin\Debug\_05.ReverseNumber.pdb
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\05. ReverseNumber\obj\Debug\_05.ReverseNumber.exe
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\05. ReverseNumber\obj\Debug\_05.ReverseNumber.pdb

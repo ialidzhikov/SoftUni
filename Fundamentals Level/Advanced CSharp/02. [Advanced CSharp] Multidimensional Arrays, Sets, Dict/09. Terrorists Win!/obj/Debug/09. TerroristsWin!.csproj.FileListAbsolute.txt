@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\09. Terrorists Win!\bin\Debug\_09.Terrorists_Win_.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\09. Terrorists Win!\bin\Debug\_09.Terrorists_Win_.pdb
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\09. Terrorists Win!\obj\Debug\09. TerroristsWin!.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\09. Terrorists Win!\obj\Debug\_09.Terrorists_Win_.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\09. Terrorists Win!\obj\Debug\_09.Terrorists_Win_.pdb

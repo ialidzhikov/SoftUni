@@ -1,0 +1,4 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\04. TextFilter\bin\Debug\_04.TextFilter.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\04. TextFilter\bin\Debug\_04.TextFilter.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\04. TextFilter\obj\Debug\_04.TextFilter.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\04. TextFilter\obj\Debug\_04.TextFilter.pdb

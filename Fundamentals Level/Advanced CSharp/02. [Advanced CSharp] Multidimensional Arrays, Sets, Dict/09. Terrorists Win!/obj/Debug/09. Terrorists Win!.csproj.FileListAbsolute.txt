@@ -1,0 +1,1 @@
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\09. Terrorists Win!\bin\Debug\_09.Terrorists_Win_.exe.config

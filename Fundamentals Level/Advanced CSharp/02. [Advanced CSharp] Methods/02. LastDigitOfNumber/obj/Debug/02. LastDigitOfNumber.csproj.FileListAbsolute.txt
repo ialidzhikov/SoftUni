@@ -1,0 +1,4 @@
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\02. LastDigitOfNumber\bin\Debug\_02.LastDigitOfNumber.exe
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\02. LastDigitOfNumber\bin\Debug\_02.LastDigitOfNumber.pdb
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\02. LastDigitOfNumber\obj\Debug\_02.LastDigitOfNumber.exe
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\02. LastDigitOfNumber\obj\Debug\_02.LastDigitOfNumber.pdb

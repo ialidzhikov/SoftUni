@@ -1,0 +1,4 @@
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\02. SortArrayOfNumbersUsing SelectionSort\bin\Debug\_02.SortArrayOfNumbersUsing_SelectionSort.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\02. SortArrayOfNumbersUsing SelectionSort\bin\Debug\_02.SortArrayOfNumbersUsing_SelectionSort.pdb
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\02. SortArrayOfNumbersUsing SelectionSort\obj\Debug\_02.SortArrayOfNumbersUsing_SelectionSort.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\02. SortArrayOfNumbersUsing SelectionSort\obj\Debug\_02.SortArrayOfNumbersUsing_SelectionSort.pdb

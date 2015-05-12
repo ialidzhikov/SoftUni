@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\11. StringMatrixRotation\bin\Debug\_11.StringMatrixRotation.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\11. StringMatrixRotation\bin\Debug\_11.StringMatrixRotation.pdb
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\11. StringMatrixRotation\obj\Debug\11. StringMatrixRotation.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\11. StringMatrixRotation\obj\Debug\_11.StringMatrixRotation.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\11. StringMatrixRotation\obj\Debug\_11.StringMatrixRotation.pdb
+D:\Visual Studio projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\11. StringMatrixRotation\obj\Debug\_11.StringMatrixRotation.exe
+D:\Visual Studio projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\11. StringMatrixRotation\obj\Debug\_11.StringMatrixRotation.pdb

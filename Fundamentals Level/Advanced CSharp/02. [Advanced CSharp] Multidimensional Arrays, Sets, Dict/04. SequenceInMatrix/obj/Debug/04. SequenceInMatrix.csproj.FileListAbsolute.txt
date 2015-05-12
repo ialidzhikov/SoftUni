@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\04. SequenceInMatrix\bin\Debug\_04.SequenceInMatrix.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\04. SequenceInMatrix\bin\Debug\_04.SequenceInMatrix.pdb
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\04. SequenceInMatrix\obj\Debug\04. SequenceInMatrix.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\04. SequenceInMatrix\obj\Debug\_04.SequenceInMatrix.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\04. SequenceInMatrix\obj\Debug\_04.SequenceInMatrix.pdb

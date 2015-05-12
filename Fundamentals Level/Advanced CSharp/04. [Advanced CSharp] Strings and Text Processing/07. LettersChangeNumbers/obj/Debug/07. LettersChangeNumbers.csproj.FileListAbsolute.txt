@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\07. LettersChangeNumbers\obj\Debug\07. LettersChangeNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\07. LettersChangeNumbers\bin\Debug\_07.LettersChangeNumbers.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\07. LettersChangeNumbers\bin\Debug\_07.LettersChangeNumbers.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\07. LettersChangeNumbers\obj\Debug\_07.LettersChangeNumbers.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\07. LettersChangeNumbers\obj\Debug\_07.LettersChangeNumbers.pdb

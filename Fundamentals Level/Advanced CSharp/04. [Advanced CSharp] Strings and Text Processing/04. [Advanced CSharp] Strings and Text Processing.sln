@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. ReverseString", "01. ReverseString\01. ReverseString.csproj", "{99658414-4DC3-4D7C-84D6-2F3DA034C11F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. StringLength", "02. StringLength\02. StringLength.csproj", "{1C95D3A0-6D8A-4917-9F4B-1383D5FF2588}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. CountSubstringOccurrences", "03. CountSubstringOccurrences\03. CountSubstringOccurrences.csproj", "{B881CC07-7D4D-4A86-ABC6-E51D423C8C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. TextFilter", "04. TextFilter\04. TextFilter.csproj", "{39D2245B-33A1-4AF7-9D7E-F7D9B4F64066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. UnicodeCharacters", "05. UnicodeCharacters\05. UnicodeCharacters.csproj", "{06959CC0-5339-43E1-BBE6-853F7712D7A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Palindromes", "06. Palindromes\06. Palindromes.csproj", "{5AC77980-31C2-466F-98A6-947619A73CCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. LettersChangeNumbers", "07. LettersChangeNumbers\07. LettersChangeNumbers.csproj", "{F02A8BC9-04CE-4C6E-A2CC-305C38D8E21F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99658414-4DC3-4D7C-84D6-2F3DA034C11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99658414-4DC3-4D7C-84D6-2F3DA034C11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99658414-4DC3-4D7C-84D6-2F3DA034C11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99658414-4DC3-4D7C-84D6-2F3DA034C11F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C95D3A0-6D8A-4917-9F4B-1383D5FF2588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C95D3A0-6D8A-4917-9F4B-1383D5FF2588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C95D3A0-6D8A-4917-9F4B-1383D5FF2588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C95D3A0-6D8A-4917-9F4B-1383D5FF2588}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B881CC07-7D4D-4A86-ABC6-E51D423C8C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B881CC07-7D4D-4A86-ABC6-E51D423C8C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B881CC07-7D4D-4A86-ABC6-E51D423C8C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B881CC07-7D4D-4A86-ABC6-E51D423C8C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D2245B-33A1-4AF7-9D7E-F7D9B4F64066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D2245B-33A1-4AF7-9D7E-F7D9B4F64066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D2245B-33A1-4AF7-9D7E-F7D9B4F64066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D2245B-33A1-4AF7-9D7E-F7D9B4F64066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06959CC0-5339-43E1-BBE6-853F7712D7A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06959CC0-5339-43E1-BBE6-853F7712D7A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06959CC0-5339-43E1-BBE6-853F7712D7A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06959CC0-5339-43E1-BBE6-853F7712D7A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC77980-31C2-466F-98A6-947619A73CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC77980-31C2-466F-98A6-947619A73CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC77980-31C2-466F-98A6-947619A73CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC77980-31C2-466F-98A6-947619A73CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F02A8BC9-04CE-4C6E-A2CC-305C38D8E21F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F02A8BC9-04CE-4C6E-A2CC-305C38D8E21F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F02A8BC9-04CE-4C6E-A2CC-305C38D8E21F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F02A8BC9-04CE-4C6E-A2CC-305C38D8E21F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

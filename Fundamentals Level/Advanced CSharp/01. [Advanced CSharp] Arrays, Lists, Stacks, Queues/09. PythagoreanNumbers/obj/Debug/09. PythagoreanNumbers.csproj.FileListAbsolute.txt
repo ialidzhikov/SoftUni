@@ -1,0 +1,4 @@
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\09. PythagoreanNumbers\bin\Debug\_09.PythagoreanNumbers.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\09. PythagoreanNumbers\bin\Debug\_09.PythagoreanNumbers.pdb
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\09. PythagoreanNumbers\obj\Debug\_09.PythagoreanNumbers.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\09. PythagoreanNumbers\obj\Debug\_09.PythagoreanNumbers.pdb

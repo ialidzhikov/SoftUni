@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\10. Plus-Remove\obj\Debug\10. Plus-Remove.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\10. Plus-Remove\bin\Debug\_10.Plus_Remove.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\10. Plus-Remove\bin\Debug\_10.Plus_Remove.pdb
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\10. Plus-Remove\obj\Debug\_10.Plus_Remove.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\10. Plus-Remove\obj\Debug\_10.Plus_Remove.pdb
+D:\Visual Studio projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\10. Plus-Remove\obj\Debug\_10.Plus_Remove.exe
+D:\Visual Studio projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\10. Plus-Remove\obj\Debug\_10.Plus_Remove.pdb

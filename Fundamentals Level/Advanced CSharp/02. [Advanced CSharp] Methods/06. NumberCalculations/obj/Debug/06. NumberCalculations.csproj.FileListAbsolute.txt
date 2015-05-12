@@ -1,0 +1,5 @@
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\06. NumberCalculations\obj\Debug\06. NumberCalculations.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\06. NumberCalculations\bin\Debug\_06.NumberCalculations.exe
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\06. NumberCalculations\bin\Debug\_06.NumberCalculations.pdb
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\06. NumberCalculations\obj\Debug\_06.NumberCalculations.exe
+D:\Visual Studio projects\02. [Advanced CSharp] Methods\06. NumberCalculations\obj\Debug\_06.NumberCalculations.pdb

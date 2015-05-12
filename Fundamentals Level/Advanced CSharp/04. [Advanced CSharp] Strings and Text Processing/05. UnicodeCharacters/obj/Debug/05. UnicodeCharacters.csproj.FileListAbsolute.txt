@@ -1,0 +1,4 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\05. UnicodeCharacters\bin\Debug\_05.UnicodeCharacters.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\05. UnicodeCharacters\obj\Debug\_05.UnicodeCharacters.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Strings and Text Processing\05. UnicodeCharacters\obj\Debug\_05.UnicodeCharacters.pdb

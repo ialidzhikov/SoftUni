@@ -1,0 +1,5 @@
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\05. LongestIncreasingSequence\bin\Debug\_05.LongestIncreasingSequence.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\05. LongestIncreasingSequence\bin\Debug\_05.LongestIncreasingSequence.pdb
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\05. LongestIncreasingSequence\obj\Debug\05. LongestIncreasingSequence.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\05. LongestIncreasingSequence\obj\Debug\_05.LongestIncreasingSequence.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\05. LongestIncreasingSequence\obj\Debug\_05.LongestIncreasingSequence.pdb

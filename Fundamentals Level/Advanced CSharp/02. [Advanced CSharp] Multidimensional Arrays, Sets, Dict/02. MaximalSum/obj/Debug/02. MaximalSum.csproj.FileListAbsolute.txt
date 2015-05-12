@@ -1,0 +1,7 @@
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\02. MaximalSum\bin\Debug\_02.MaximalSum.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\02. MaximalSum\bin\Debug\_02.MaximalSum.pdb
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\02. MaximalSum\obj\Debug\02. MaximalSum.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\02. MaximalSum\obj\Debug\_02.MaximalSum.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\02. MaximalSum\obj\Debug\_02.MaximalSum.pdb
+D:\Visual Studio projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\02. MaximalSum\obj\Debug\_02.MaximalSum.exe
+D:\Visual Studio projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\02. MaximalSum\obj\Debug\_02.MaximalSum.pdb

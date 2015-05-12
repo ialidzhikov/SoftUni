@@ -1,0 +1,5 @@
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\08. StuckNumbers\obj\Debug\08. StuckNumbers.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\08. StuckNumbers\bin\Debug\_08.StuckNumbers.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\08. StuckNumbers\bin\Debug\_08.StuckNumbers.pdb
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\08. StuckNumbers\obj\Debug\_08.StuckNumbers.exe
+D:\Visual Studio projects\01. [Advanced CSharp] Arrays, Lists, Stacks, Queues\08. StuckNumbers\obj\Debug\_08.StuckNumbers.pdb

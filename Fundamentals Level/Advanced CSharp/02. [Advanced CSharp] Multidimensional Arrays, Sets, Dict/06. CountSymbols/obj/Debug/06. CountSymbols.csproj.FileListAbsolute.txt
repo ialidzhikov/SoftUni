@@ -1,0 +1,4 @@
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\06. CountSymbols\bin\Debug\_06.CountSymbols.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\06. CountSymbols\bin\Debug\_06.CountSymbols.pdb
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\06. CountSymbols\obj\Debug\_06.CountSymbols.exe
+c:\users\dell\documents\visual studio 2013\Projects\02. [Advanced CSharp] Multidimensional Arrays, Sets, Dict\06. CountSymbols\obj\Debug\_06.CountSymbols.pdb
