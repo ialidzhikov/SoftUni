@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\06. ExtractHyperlinks\bin\Debug\_06.ExtractHyperlinks.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\06. ExtractHyperlinks\bin\Debug\_06.ExtractHyperlinks.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\06. ExtractHyperlinks\obj\Debug\06. ExtractHyperlinks.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\06. ExtractHyperlinks\obj\Debug\_06.ExtractHyperlinks.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\06. ExtractHyperlinks\obj\Debug\_06.ExtractHyperlinks.pdb

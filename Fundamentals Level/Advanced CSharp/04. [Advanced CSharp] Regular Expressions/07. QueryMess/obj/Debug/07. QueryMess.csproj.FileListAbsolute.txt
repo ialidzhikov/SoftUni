@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\07. QueryMess\bin\Debug\_07.QueryMess.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\07. QueryMess\bin\Debug\_07.QueryMess.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\07. QueryMess\obj\Debug\07. QueryMess.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\07. QueryMess\obj\Debug\_07.QueryMess.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\07. QueryMess\obj\Debug\_07.QueryMess.pdb

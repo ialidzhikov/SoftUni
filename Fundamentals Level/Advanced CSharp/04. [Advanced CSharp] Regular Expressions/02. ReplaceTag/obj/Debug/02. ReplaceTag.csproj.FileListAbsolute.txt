@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\02. ReplaceTag\bin\Debug\_02.ReplaceTag.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\02. ReplaceTag\bin\Debug\_02.ReplaceTag.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\02. ReplaceTag\obj\Debug\02. ReplaceTag.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\02. ReplaceTag\obj\Debug\_02.ReplaceTag.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\02. ReplaceTag\obj\Debug\_02.ReplaceTag.pdb

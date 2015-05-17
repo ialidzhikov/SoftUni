@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\08. UseYourChainsBuddy\obj\Debug\08. UseYourChainsBuddy.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\08. UseYourChainsBuddy\bin\Debug\_08.UseYourChainsBuddy.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\08. UseYourChainsBuddy\bin\Debug\_08.UseYourChainsBuddy.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\08. UseYourChainsBuddy\obj\Debug\_08.UseYourChainsBuddy.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\08. UseYourChainsBuddy\obj\Debug\_08.UseYourChainsBuddy.pdb

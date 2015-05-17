@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\04. SentenceExtractor\bin\Debug\_04.SentenceExtractor.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\04. SentenceExtractor\bin\Debug\_04.SentenceExtractor.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\04. SentenceExtractor\obj\Debug\04. SentenceExtractor.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\04. SentenceExtractor\obj\Debug\_04.SentenceExtractor.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\04. SentenceExtractor\obj\Debug\_04.SentenceExtractor.pdb

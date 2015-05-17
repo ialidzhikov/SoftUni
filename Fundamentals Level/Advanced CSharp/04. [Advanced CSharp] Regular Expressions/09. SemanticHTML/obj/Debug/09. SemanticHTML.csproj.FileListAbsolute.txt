@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\09. SemanticHTML\bin\Debug\_09.SemanticHTML.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\09. SemanticHTML\bin\Debug\_09.SemanticHTML.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\09. SemanticHTML\obj\Debug\09. SemanticHTML.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\09. SemanticHTML\obj\Debug\_09.SemanticHTML.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\09. SemanticHTML\obj\Debug\_09.SemanticHTML.pdb

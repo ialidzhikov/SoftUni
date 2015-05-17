@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\05. ValidUsernames\obj\Debug\05. ValidUsernames.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\05. ValidUsernames\bin\Debug\_05.ValidUsernames.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\05. ValidUsernames\bin\Debug\_05.ValidUsernames.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\05. ValidUsernames\obj\Debug\_05.ValidUsernames.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\05. ValidUsernames\obj\Debug\_05.ValidUsernames.pdb

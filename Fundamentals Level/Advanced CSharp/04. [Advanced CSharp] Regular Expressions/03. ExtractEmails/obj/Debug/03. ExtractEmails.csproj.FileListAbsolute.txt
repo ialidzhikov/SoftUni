@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\03. ExtractEmails\bin\Debug\_03.ExtractEmails.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\03. ExtractEmails\bin\Debug\_03.ExtractEmails.pdb
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\03. ExtractEmails\obj\Debug\03. ExtractEmails.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\03. ExtractEmails\obj\Debug\_03.ExtractEmails.exe
+D:\Visual Studio projects\04. [Advanced CSharp] Regular Expressions\03. ExtractEmails\obj\Debug\_03.ExtractEmails.pdb
