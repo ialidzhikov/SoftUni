@@ -1,0 +1,4 @@
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\08. FullDirectoryTraversal\bin\Debug\_08.FullDirectoryTraversal.exe
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\08. FullDirectoryTraversal\bin\Debug\_08.FullDirectoryTraversal.pdb
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\08. FullDirectoryTraversal\obj\Debug\_08.FullDirectoryTraversal.exe
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\08. FullDirectoryTraversal\obj\Debug\_08.FullDirectoryTraversal.pdb

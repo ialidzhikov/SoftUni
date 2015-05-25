@@ -1,0 +1,5 @@
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\11. CouplesFrequency\obj\Debug\11. CouplesFrequency.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\11. CouplesFrequency\bin\Debug\_11.CouplesFrequency.exe
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\11. CouplesFrequency\bin\Debug\_11.CouplesFrequency.pdb
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\11. CouplesFrequency\obj\Debug\_11.CouplesFrequency.exe
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\11. CouplesFrequency\obj\Debug\_11.CouplesFrequency.pdb

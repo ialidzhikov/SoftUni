@@ -1,0 +1,5 @@
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\12. LabyrinthDash\obj\Debug\12. LabyrinthDash.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\12. LabyrinthDash\bin\Debug\_12.LabyrinthDash.exe
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\12. LabyrinthDash\bin\Debug\_12.LabyrinthDash.pdb
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\12. LabyrinthDash\obj\Debug\_12.LabyrinthDash.exe
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\12. LabyrinthDash\obj\Debug\_12.LabyrinthDash.pdb

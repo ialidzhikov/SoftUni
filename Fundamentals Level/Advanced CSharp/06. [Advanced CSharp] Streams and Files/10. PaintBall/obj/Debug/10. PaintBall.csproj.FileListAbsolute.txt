@@ -1,0 +1,5 @@
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\10. PaintBall\bin\Debug\_10.PaintBall.exe
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\10. PaintBall\bin\Debug\_10.PaintBall.pdb
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\10. PaintBall\obj\Debug\10. PaintBall.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\10. PaintBall\obj\Debug\_10.PaintBall.exe
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\10. PaintBall\obj\Debug\_10.PaintBall.pdb

@@ -1,0 +1,4 @@
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\02. LineNumbers\bin\Debug\_02.LineNumbers.exe
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\02. LineNumbers\bin\Debug\_02.LineNumbers.pdb
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\02. LineNumbers\obj\Debug\_02.LineNumbers.exe
+D:\Visual Studio projects\06. [Advanced CSharp] Streams and Files\02. LineNumbers\obj\Debug\_02.LineNumbers.pdb
