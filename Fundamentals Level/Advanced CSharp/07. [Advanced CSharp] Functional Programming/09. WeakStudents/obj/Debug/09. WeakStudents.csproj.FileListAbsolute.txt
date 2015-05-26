@@ -1,0 +1,7 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\09. WeakStudents\bin\Debug\_09.WeakStudents.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\09. WeakStudents\bin\Debug\_09.WeakStudents.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\09. WeakStudents\bin\Debug\_01.ClassStudent.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\09. WeakStudents\bin\Debug\_01.ClassStudent.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\09. WeakStudents\obj\Debug\_09.WeakStudents.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\09. WeakStudents\obj\Debug\_09.WeakStudents.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\09. WeakStudents\obj\Debug\09. WeakStudents.csprojResolveAssemblyReference.cache

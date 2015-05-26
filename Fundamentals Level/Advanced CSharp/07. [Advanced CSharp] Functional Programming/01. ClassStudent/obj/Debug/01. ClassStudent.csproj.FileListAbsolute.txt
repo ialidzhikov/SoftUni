@@ -1,0 +1,5 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\01. ClassStudent\bin\Debug\_01.ClassStudent.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\01. ClassStudent\bin\Debug\_01.ClassStudent.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\01. ClassStudent\obj\Debug\01. ClassStudent.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\01. ClassStudent\obj\Debug\_01.ClassStudent.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\01. ClassStudent\obj\Debug\_01.ClassStudent.pdb

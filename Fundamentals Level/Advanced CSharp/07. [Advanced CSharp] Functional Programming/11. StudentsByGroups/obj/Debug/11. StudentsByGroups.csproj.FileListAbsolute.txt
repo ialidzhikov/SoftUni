@@ -1,0 +1,7 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\11. StudentsByGroups\obj\Debug\11. StudentsByGroups.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\11. StudentsByGroups\bin\Debug\_11.StudentsByGroups.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\11. StudentsByGroups\bin\Debug\_11.StudentsByGroups.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\11. StudentsByGroups\bin\Debug\_01.ClassStudent.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\11. StudentsByGroups\bin\Debug\_01.ClassStudent.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\11. StudentsByGroups\obj\Debug\_11.StudentsByGroups.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\11. StudentsByGroups\obj\Debug\_11.StudentsByGroups.pdb

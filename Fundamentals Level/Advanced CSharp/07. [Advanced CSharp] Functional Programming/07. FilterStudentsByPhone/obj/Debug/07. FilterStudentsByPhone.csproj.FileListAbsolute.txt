@@ -1,0 +1,7 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\07. FilterStudentsByPhone\bin\Debug\_07.FilterStudentsByPhone.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\07. FilterStudentsByPhone\bin\Debug\_07.FilterStudentsByPhone.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\07. FilterStudentsByPhone\bin\Debug\_01.ClassStudent.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\07. FilterStudentsByPhone\bin\Debug\_01.ClassStudent.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\07. FilterStudentsByPhone\obj\Debug\07. FilterStudentsByPhone.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\07. FilterStudentsByPhone\obj\Debug\_07.FilterStudentsByPhone.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\07. FilterStudentsByPhone\obj\Debug\_07.FilterStudentsByPhone.pdb

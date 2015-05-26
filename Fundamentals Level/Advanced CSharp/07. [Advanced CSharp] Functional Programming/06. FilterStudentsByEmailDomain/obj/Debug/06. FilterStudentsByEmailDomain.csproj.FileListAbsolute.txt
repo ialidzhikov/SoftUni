@@ -1,0 +1,7 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\06. FilterStudentsByEmailDomain\bin\Debug\_06.FilterStudentsByEmailDomain.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\06. FilterStudentsByEmailDomain\bin\Debug\_06.FilterStudentsByEmailDomain.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\06. FilterStudentsByEmailDomain\bin\Debug\_01.ClassStudent.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\06. FilterStudentsByEmailDomain\bin\Debug\_01.ClassStudent.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\06. FilterStudentsByEmailDomain\obj\Debug\06. FilterStudentsByEmailDomain.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\06. FilterStudentsByEmailDomain\obj\Debug\_06.FilterStudentsByEmailDomain.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\06. FilterStudentsByEmailDomain\obj\Debug\_06.FilterStudentsByEmailDomain.pdb

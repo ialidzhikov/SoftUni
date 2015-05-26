@@ -1,0 +1,6 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\13. LINQToExcel\obj\Debug\13. LINQToExcel.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\13. LINQToExcel\bin\Debug\_13.LINQToExcel.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\13. LINQToExcel\bin\Debug\_13.LINQToExcel.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\13. LINQToExcel\obj\Debug\_13.LINQToExcel.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\13. LINQToExcel\obj\Debug\_13.LINQToExcel.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\13. LINQToExcel\bin\Debug\ExcelLibrary.dll

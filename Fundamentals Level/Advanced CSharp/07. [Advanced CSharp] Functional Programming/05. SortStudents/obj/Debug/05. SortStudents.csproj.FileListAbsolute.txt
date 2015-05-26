@@ -1,0 +1,7 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\05. SortStudents\bin\Debug\_05.SortStudents.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\05. SortStudents\bin\Debug\_05.SortStudents.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\05. SortStudents\bin\Debug\_01.ClassStudent.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\05. SortStudents\bin\Debug\_01.ClassStudent.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\05. SortStudents\obj\Debug\05. SortStudents.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\05. SortStudents\obj\Debug\_05.SortStudents.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\05. SortStudents\obj\Debug\_05.SortStudents.pdb

@@ -1,0 +1,7 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\08. ExcellentStudents\bin\Debug\_08.ExcellentStudents.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\08. ExcellentStudents\bin\Debug\_08.ExcellentStudents.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\08. ExcellentStudents\bin\Debug\_01.ClassStudent.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\08. ExcellentStudents\bin\Debug\_01.ClassStudent.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\08. ExcellentStudents\obj\Debug\_08.ExcellentStudents.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\08. ExcellentStudents\obj\Debug\_08.ExcellentStudents.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\08. ExcellentStudents\obj\Debug\08. ExcellentStudents.csprojResolveAssemblyReference.cache
