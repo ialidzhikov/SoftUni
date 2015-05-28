@@ -1,0 +1,5 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\16. LittleJohn\bin\Debug\_16.LittleJohn.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\16. LittleJohn\bin\Debug\_16.LittleJohn.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\16. LittleJohn\obj\Debug\16. LittleJohn.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\16. LittleJohn\obj\Debug\_16.LittleJohn.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\16. LittleJohn\obj\Debug\_16.LittleJohn.pdb

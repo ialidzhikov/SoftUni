@@ -1,0 +1,5 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\15. UppercaseWords\obj\Debug\15. UppercaseWords.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\15. UppercaseWords\bin\Debug\_15.UppercaseWords.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\15. UppercaseWords\bin\Debug\_15.UppercaseWords.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\15. UppercaseWords\obj\Debug\_15.UppercaseWords.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\15. UppercaseWords\obj\Debug\_15.UppercaseWords.pdb

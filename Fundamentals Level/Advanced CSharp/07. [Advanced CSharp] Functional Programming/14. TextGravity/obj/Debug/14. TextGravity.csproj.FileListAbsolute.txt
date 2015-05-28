@@ -1,0 +1,5 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\14. TextGravity\bin\Debug\_14.TextGravity.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\14. TextGravity\bin\Debug\_14.TextGravity.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\14. TextGravity\obj\Debug\14. TextGravity.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\14. TextGravity\obj\Debug\_14.TextGravity.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\14. TextGravity\obj\Debug\_14.TextGravity.pdb

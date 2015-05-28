@@ -1,0 +1,5 @@
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\17. OfficeStuff\obj\Debug\17. OfficeStuff.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\17. OfficeStuff\bin\Debug\_17.OfficeStuff.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\17. OfficeStuff\bin\Debug\_17.OfficeStuff.pdb
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\17. OfficeStuff\obj\Debug\_17.OfficeStuff.exe
+D:\Visual Studio projects\07. [Advanced CSharp] Functional Programming\17. OfficeStuff\obj\Debug\_17.OfficeStuff.pdb
