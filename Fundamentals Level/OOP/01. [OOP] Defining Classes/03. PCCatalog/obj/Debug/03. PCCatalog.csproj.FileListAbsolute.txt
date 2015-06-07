@@ -1,0 +1,5 @@
+D:\Visual Studio projects\01. [OOP] Defining Classes\03. PCCatalog\obj\Debug\03. PCCatalog.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\01. [OOP] Defining Classes\03. PCCatalog\bin\Debug\_03.PCCatalog.exe
+D:\Visual Studio projects\01. [OOP] Defining Classes\03. PCCatalog\bin\Debug\_03.PCCatalog.pdb
+D:\Visual Studio projects\01. [OOP] Defining Classes\03. PCCatalog\obj\Debug\_03.PCCatalog.exe
+D:\Visual Studio projects\01. [OOP] Defining Classes\03. PCCatalog\obj\Debug\_03.PCCatalog.pdb

@@ -1,0 +1,5 @@
+D:\Visual Studio projects\01. [OOP] Defining Classes\04. SoftwareUniversityLearningSystem\bin\Debug\_04.SoftwareUniversityLearningSystem.exe
+D:\Visual Studio projects\01. [OOP] Defining Classes\04. SoftwareUniversityLearningSystem\bin\Debug\_04.SoftwareUniversityLearningSystem.pdb
+D:\Visual Studio projects\01. [OOP] Defining Classes\04. SoftwareUniversityLearningSystem\obj\Debug\04. SoftwareUniversityLearningSystem.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\01. [OOP] Defining Classes\04. SoftwareUniversityLearningSystem\obj\Debug\_04.SoftwareUniversityLearningSystem.exe
+D:\Visual Studio projects\01. [OOP] Defining Classes\04. SoftwareUniversityLearningSystem\obj\Debug\_04.SoftwareUniversityLearningSystem.pdb

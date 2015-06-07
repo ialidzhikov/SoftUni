@@ -1,0 +1,5 @@
+D:\Visual Studio projects\01. [OOP] Defining Classes\02. LaptopShop\obj\Debug\02. LaptopShop.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\01. [OOP] Defining Classes\02. LaptopShop\bin\Debug\_02.LaptopShop.exe
+D:\Visual Studio projects\01. [OOP] Defining Classes\02. LaptopShop\bin\Debug\_02.LaptopShop.pdb
+D:\Visual Studio projects\01. [OOP] Defining Classes\02. LaptopShop\obj\Debug\_02.LaptopShop.exe
+D:\Visual Studio projects\01. [OOP] Defining Classes\02. LaptopShop\obj\Debug\_02.LaptopShop.pdb
