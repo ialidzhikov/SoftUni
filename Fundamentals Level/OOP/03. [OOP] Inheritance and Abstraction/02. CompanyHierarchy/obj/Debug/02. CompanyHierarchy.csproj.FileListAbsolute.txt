@@ -1,0 +1,5 @@
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\02. CompanyHierarchy\obj\Debug\02. CompanyHierarchy.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\02. CompanyHierarchy\bin\Debug\_02.CompanyHierarchy.exe
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\02. CompanyHierarchy\bin\Debug\_02.CompanyHierarchy.pdb
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\02. CompanyHierarchy\obj\Debug\_02.CompanyHierarchy.exe
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\02. CompanyHierarchy\obj\Debug\_02.CompanyHierarchy.pdb

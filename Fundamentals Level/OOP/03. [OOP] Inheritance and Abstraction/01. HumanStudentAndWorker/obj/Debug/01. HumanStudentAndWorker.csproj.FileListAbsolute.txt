@@ -1,0 +1,5 @@
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\01. HumanStudentAndWorker\bin\Debug\_01.HumanStudentAndWorker.exe
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\01. HumanStudentAndWorker\bin\Debug\_01.HumanStudentAndWorker.pdb
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\01. HumanStudentAndWorker\obj\Debug\01. HumanStudentAndWorker.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\01. HumanStudentAndWorker\obj\Debug\_01.HumanStudentAndWorker.exe
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\01. HumanStudentAndWorker\obj\Debug\_01.HumanStudentAndWorker.pdb

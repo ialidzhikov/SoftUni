@@ -1,0 +1,5 @@
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\02. Animals\bin\Debug\_02.Animals.exe
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\02. Animals\bin\Debug\_02.Animals.pdb
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\02. Animals\obj\Debug\02. Animals.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\02. Animals\obj\Debug\_02.Animals.exe
+D:\Visual Studio projects\03. [OOP] Inheritance and Abstraction\02. Animals\obj\Debug\_02.Animals.pdb
