@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Point3D", "01. Point3D\01. Point3D.csproj", "{4B5D0AD6-26DD-43E5-B381-DE53CAE48A48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. DistanceCalculator", "02. DistanceCalculator\02. DistanceCalculator.csproj", "{BA0A27EE-8393-47A2-B710-E8F237B8EA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Paths", "03. Paths\03. Paths.csproj", "{C085D60A-5ACB-4626-BADD-6F568B2C8674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Namespaces", "04. Namespaces\04. Namespaces.csproj", "{D0045BF1-6410-4791-8B31-F093F87D9687}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. HTMLDispatcher", "05. HTMLDispatcher\05. HTMLDispatcher.csproj", "{49BDA9A5-84EC-4413-9B84-4A63C25FB42F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. BitArray", "06. BitArray\06. BitArray.csproj", "{A24D60C3-E7B4-4AD4-93D6-D63544EF4730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B5D0AD6-26DD-43E5-B381-DE53CAE48A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5D0AD6-26DD-43E5-B381-DE53CAE48A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5D0AD6-26DD-43E5-B381-DE53CAE48A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5D0AD6-26DD-43E5-B381-DE53CAE48A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0A27EE-8393-47A2-B710-E8F237B8EA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0A27EE-8393-47A2-B710-E8F237B8EA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0A27EE-8393-47A2-B710-E8F237B8EA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0A27EE-8393-47A2-B710-E8F237B8EA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C085D60A-5ACB-4626-BADD-6F568B2C8674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C085D60A-5ACB-4626-BADD-6F568B2C8674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C085D60A-5ACB-4626-BADD-6F568B2C8674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C085D60A-5ACB-4626-BADD-6F568B2C8674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0045BF1-6410-4791-8B31-F093F87D9687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0045BF1-6410-4791-8B31-F093F87D9687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0045BF1-6410-4791-8B31-F093F87D9687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0045BF1-6410-4791-8B31-F093F87D9687}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BDA9A5-84EC-4413-9B84-4A63C25FB42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BDA9A5-84EC-4413-9B84-4A63C25FB42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BDA9A5-84EC-4413-9B84-4A63C25FB42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BDA9A5-84EC-4413-9B84-4A63C25FB42F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A24D60C3-E7B4-4AD4-93D6-D63544EF4730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24D60C3-E7B4-4AD4-93D6-D63544EF4730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24D60C3-E7B4-4AD4-93D6-D63544EF4730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24D60C3-E7B4-4AD4-93D6-D63544EF4730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

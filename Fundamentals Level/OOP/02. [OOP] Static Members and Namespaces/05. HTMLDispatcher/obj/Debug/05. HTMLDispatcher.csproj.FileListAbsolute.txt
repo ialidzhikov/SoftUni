@@ -1,0 +1,5 @@
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\05. HTMLDispatcher\bin\Debug\_05.HTMLDispatcher.exe
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\05. HTMLDispatcher\bin\Debug\_05.HTMLDispatcher.pdb
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\05. HTMLDispatcher\obj\Debug\05. HTMLDispatcher.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\05. HTMLDispatcher\obj\Debug\_05.HTMLDispatcher.exe
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\05. HTMLDispatcher\obj\Debug\_05.HTMLDispatcher.pdb

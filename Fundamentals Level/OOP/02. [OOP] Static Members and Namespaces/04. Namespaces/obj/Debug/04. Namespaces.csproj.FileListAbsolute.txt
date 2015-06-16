@@ -1,0 +1,1 @@
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\04. Namespaces\bin\Debug\_04.Namespaces.exe.config

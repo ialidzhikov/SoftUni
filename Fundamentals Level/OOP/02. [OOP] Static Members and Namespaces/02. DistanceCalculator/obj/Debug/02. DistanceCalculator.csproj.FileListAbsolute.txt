@@ -1,0 +1,7 @@
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\02. DistanceCalculator\bin\Debug\_02.DistanceCalculator.exe
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\02. DistanceCalculator\bin\Debug\_02.DistanceCalculator.pdb
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\02. DistanceCalculator\bin\Debug\_01.Point3D.exe
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\02. DistanceCalculator\bin\Debug\_01.Point3D.pdb
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\02. DistanceCalculator\obj\Debug\02. DistanceCalculator.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\02. DistanceCalculator\obj\Debug\_02.DistanceCalculator.exe
+D:\Visual Studio projects\02. [OOP] Static Members and Namespaces\02. DistanceCalculator\obj\Debug\_02.DistanceCalculator.pdb

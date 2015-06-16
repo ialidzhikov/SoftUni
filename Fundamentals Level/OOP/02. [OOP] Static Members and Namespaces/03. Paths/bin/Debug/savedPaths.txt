@@ -1,0 +1,11 @@
+﻿Path 0
+Point3D 0 : Point3D - X: 3.00 , Y: 3.00 , Z: 0.00 
+Point3D 1 : Point3D - X: -7.00, Y: 2.00 , Z: 21.00
+Point3D 2 : Point3D - X: 0.00 , Y: 0.00 , Z: 0.00 
+Path 1
+Point3D 0 : Point3D - X: -1.00, Y: -2.00, Z: -5.00
+Point3D 1 : Point3D - X: 8.00 , Y: 5.00 , Z: 23.00
+Path 2
+Point3D 0 : Point3D - X: 0.00 , Y: 0.00 , Z: 0.00 
+Point3D 1 : Point3D - X: -7.00, Y: 2.00 , Z: 21.00
+Point3D 2 : Point3D - X: 3.00 , Y: 3.00 , Z: 0.00 
