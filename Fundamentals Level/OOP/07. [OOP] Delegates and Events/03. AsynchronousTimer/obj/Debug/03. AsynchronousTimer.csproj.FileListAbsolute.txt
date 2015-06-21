@@ -1,0 +1,5 @@
+D:\Visual Studio projects\07. [OOP] Delegates and Events\03. AsynchronousTimer\bin\Debug\_03.AsynchronousTimer.exe
+D:\Visual Studio projects\07. [OOP] Delegates and Events\03. AsynchronousTimer\bin\Debug\_03.AsynchronousTimer.pdb
+D:\Visual Studio projects\07. [OOP] Delegates and Events\03. AsynchronousTimer\obj\Debug\03. AsynchronousTimer.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [OOP] Delegates and Events\03. AsynchronousTimer\obj\Debug\_03.AsynchronousTimer.exe
+D:\Visual Studio projects\07. [OOP] Delegates and Events\03. AsynchronousTimer\obj\Debug\_03.AsynchronousTimer.pdb

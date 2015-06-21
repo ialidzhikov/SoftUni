@@ -1,0 +1,5 @@
+D:\Visual Studio projects\07. [OOP] Delegates and Events\02. InterestCalculator\bin\Debug\_02.InterestCalculator.exe
+D:\Visual Studio projects\07. [OOP] Delegates and Events\02. InterestCalculator\bin\Debug\_02.InterestCalculator.pdb
+D:\Visual Studio projects\07. [OOP] Delegates and Events\02. InterestCalculator\obj\Debug\02. InterestCalculator.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [OOP] Delegates and Events\02. InterestCalculator\obj\Debug\_02.InterestCalculator.exe
+D:\Visual Studio projects\07. [OOP] Delegates and Events\02. InterestCalculator\obj\Debug\_02.InterestCalculator.pdb

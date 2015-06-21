@@ -1,0 +1,5 @@
+D:\Visual Studio projects\07. [OOP] Delegates and Events\01. CustomLINQExtentionMethods\bin\Debug\_01.CustomLINQExtentionMethods.exe
+D:\Visual Studio projects\07. [OOP] Delegates and Events\01. CustomLINQExtentionMethods\bin\Debug\_01.CustomLINQExtentionMethods.pdb
+D:\Visual Studio projects\07. [OOP] Delegates and Events\01. CustomLINQExtentionMethods\obj\Debug\01. CustomLINQExtentionMethods.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [OOP] Delegates and Events\01. CustomLINQExtentionMethods\obj\Debug\_01.CustomLINQExtentionMethods.exe
+D:\Visual Studio projects\07. [OOP] Delegates and Events\01. CustomLINQExtentionMethods\obj\Debug\_01.CustomLINQExtentionMethods.pdb

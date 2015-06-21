@@ -1,0 +1,5 @@
+D:\Visual Studio projects\07. [OOP] Delegates and Events\04. StudentClass\bin\Debug\_04.StudentClass.exe
+D:\Visual Studio projects\07. [OOP] Delegates and Events\04. StudentClass\bin\Debug\_04.StudentClass.pdb
+D:\Visual Studio projects\07. [OOP] Delegates and Events\04. StudentClass\obj\Debug\04. StudentClass.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\07. [OOP] Delegates and Events\04. StudentClass\obj\Debug\_04.StudentClass.exe
+D:\Visual Studio projects\07. [OOP] Delegates and Events\04. StudentClass\obj\Debug\_04.StudentClass.pdb
