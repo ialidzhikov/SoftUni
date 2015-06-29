@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [OPP] Encapsulation and Polymorphism\02. BankOfKurtovoKonare\obj\Debug\02. BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [OPP] Encapsulation and Polymorphism\02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.exe
+D:\Visual Studio projects\04. [OPP] Encapsulation and Polymorphism\02. BankOfKurtovoKonare\bin\Debug\_02.BankOfKurtovoKonare.pdb
+D:\Visual Studio projects\04. [OPP] Encapsulation and Polymorphism\02. BankOfKurtovoKonare\obj\Debug\_02.BankOfKurtovoKonare.exe
+D:\Visual Studio projects\04. [OPP] Encapsulation and Polymorphism\02. BankOfKurtovoKonare\obj\Debug\_02.BankOfKurtovoKonare.pdb

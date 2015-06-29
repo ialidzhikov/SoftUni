@@ -1,0 +1,5 @@
+D:\Visual Studio projects\04. [OPP] Encapsulation and Polymorphism\03. GameEngine\obj\Debug\03. GameEngine.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\04. [OPP] Encapsulation and Polymorphism\03. GameEngine\bin\Debug\_03.GameEngine.exe
+D:\Visual Studio projects\04. [OPP] Encapsulation and Polymorphism\03. GameEngine\bin\Debug\_03.GameEngine.pdb
+D:\Visual Studio projects\04. [OPP] Encapsulation and Polymorphism\03. GameEngine\obj\Debug\_03.GameEngine.exe
+D:\Visual Studio projects\04. [OPP] Encapsulation and Polymorphism\03. GameEngine\obj\Debug\_03.GameEngine.pdb
