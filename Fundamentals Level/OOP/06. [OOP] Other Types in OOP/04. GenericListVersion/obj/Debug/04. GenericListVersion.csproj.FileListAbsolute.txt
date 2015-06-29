@@ -1,0 +1,5 @@
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\04. GenericListVersion\obj\Debug\04. GenericListVersion.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\04. GenericListVersion\bin\Debug\_04.GenericListVersion.exe
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\04. GenericListVersion\bin\Debug\_04.GenericListVersion.pdb
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\04. GenericListVersion\obj\Debug\_04.GenericListVersion.exe
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\04. GenericListVersion\obj\Debug\_04.GenericListVersion.pdb

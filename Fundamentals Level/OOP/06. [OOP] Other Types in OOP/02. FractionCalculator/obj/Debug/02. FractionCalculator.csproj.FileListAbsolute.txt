@@ -1,0 +1,5 @@
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\02. FractionCalculator\bin\Debug\_02.FractionCalculator.exe
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\02. FractionCalculator\bin\Debug\_02.FractionCalculator.pdb
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\02. FractionCalculator\obj\Debug\02. FractionCalculator.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\02. FractionCalculator\obj\Debug\_02.FractionCalculator.exe
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\02. FractionCalculator\obj\Debug\_02.FractionCalculator.pdb

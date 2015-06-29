@@ -1,0 +1,6 @@
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\05. WordDocumentGenerator\obj\Debug\05. WordDocumentGenerator.csprojResolveAssemblyReference.cache
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\05. WordDocumentGenerator\bin\Debug\_05.WordDocumentGenerator.exe
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\05. WordDocumentGenerator\bin\Debug\_05.WordDocumentGenerator.pdb
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\05. WordDocumentGenerator\bin\Debug\DocX.dll
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\05. WordDocumentGenerator\obj\Debug\_05.WordDocumentGenerator.exe
+D:\Visual Studio projects\06. [OOP] Other Types in OOP\05. WordDocumentGenerator\obj\Debug\_05.WordDocumentGenerator.pdb
